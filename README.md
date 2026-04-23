@@ -119,7 +119,7 @@ python matcher.py --eval
 
 ## Video
 
-*Upload URL will be added here after recording.*
+https://drive.google.com/file/d/1Np2Sgpr9m2J7BFQLk0OxkI-iX2wg5Cf5/view?usp=drive_link
 
 ## License
 
