@@ -1,0 +1,118 @@
+[
+  {
+    "id": "P01",
+    "sector": "fintech",
+    "country": "Kenya",
+    "employees": 6,
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "needs_text": "Nous offrons un produit de prêt mobile pour commerçants informels et avons besoin de capitaux pour améliorer notre scoring et étendre la couverture.",
+    "past_funding": 10000
+  },
+  {
+    "id": "P02",
+    "sector": "cleantech",
+    "country": "DRC",
+    "employees": 20,
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "needs_text": "Nous installons des systèmes solaires domestiques hors réseau et recherchons du capital de croissance pour ouvrir de nouveaux centres de distribution.",
+    "past_funding": 0
+  },
+  {
+    "id": "P03",
+    "sector": "wastetech",
+    "country": "Senegal",
+    "employees": 20,
+    "languages": [
+      "en"
+    ],
+    "needs_text": "We recycle plastic waste into construction materials and are seeking grants to scale collection logistics and equipment.",
+    "past_funding": 120000
+  },
+  {
+    "id": "P04",
+    "sector": "cleantech",
+    "country": "Ethiopia",
+    "employees": 20,
+    "languages": [
+      "en"
+    ],
+    "needs_text": "We install solar home systems for off-grid households and are looking for growth capital to open new distribution hubs.",
+    "past_funding": 0
+  },
+  {
+    "id": "P05",
+    "sector": "edtech",
+    "country": "Senegal",
+    "employees": 12,
+    "languages": [
+      "en"
+    ],
+    "needs_text": "We run a digital learning platform for secondary school students and seek funding to localise content and train teachers.",
+    "past_funding": 50000
+  },
+  {
+    "id": "P06",
+    "sector": "edtech",
+    "country": "Rwanda",
+    "employees": 6,
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "needs_text": "Nous exploitons une plateforme d'apprentissage numérique pour lycéens et cherchons un financement pour localiser le contenu et former les enseignants.",
+    "past_funding": 120000
+  },
+  {
+    "id": "P07",
+    "sector": "healthtech",
+    "country": "Senegal",
+    "employees": 20,
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "needs_text": "Notre réseau de cliniques offre des services de santé maternelle et nous cherchons des fonds pour numériser les dossiers et étendre la télémédecine.",
+    "past_funding": 0
+  },
+  {
+    "id": "P08",
+    "sector": "healthtech",
+    "country": "DRC",
+    "employees": 48,
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "needs_text": "Notre réseau de cliniques offre des services de santé maternelle et nous cherchons des fonds pour numériser les dossiers et étendre la télémédecine.",
+    "past_funding": 50000
+  },
+  {
+    "id": "P09",
+    "sector": "agritech",
+    "country": "Rwanda",
+    "employees": 35,
+    "languages": [
+      "en"
+    ],
+    "needs_text": "We support smallholder farmers with mobile advisory services and need working capital to scale our outreach across rural districts.",
+    "past_funding": 10000
+  },
+  {
+    "id": "P10",
+    "sector": "agritech",
+    "country": "Senegal",
+    "employees": 35,
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "needs_text": "Nous soutenons les petits exploitants agricoles avec des services de conseil mobile et recherchons un fonds de roulement pour développer notre présence rurale.",
+    "past_funding": 50000
+  }
+]
