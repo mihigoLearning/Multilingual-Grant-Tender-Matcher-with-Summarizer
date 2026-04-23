@@ -1,6 +1,6 @@
 # Process Log — T2.2
 
-**Candidate:** Mihigo Ribeus
+**Candidate:** Munezero Mihigo Ribeus
 **Challenge:** T2.2 — Multilingual Grant & Tender Matcher with Summarizer
 **Start:** 2026-04-23 · 10:00 local
 

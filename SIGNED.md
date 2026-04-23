@@ -1,6 +1,6 @@
 # Honor Code — Signed
 
-**Full name:** Mihigo Ribeus
+**Full name:** Munezero Mihigo Ribeus
 
 **Date:** 2026-04-23
 
