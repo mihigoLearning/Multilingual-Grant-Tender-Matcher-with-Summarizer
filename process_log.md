@@ -47,7 +47,7 @@
 
 | Tool | Why | How it changed the output |
 |---|---|---|
-| **Claude Sonnet 4.6** (via Claude Code) | Pair-programming, scaffolding, edge-case review | Drafted the initial `generate_data.py` and `ranker.py` structure; I rewrote the weights, swapped `TfidfVectorizer` from word to `char_wb` (for cross-lingual), and chose `rank_bm25` over `sklearn.text.CountVectorizer` manual BM25 because it matters for speed. |
+| **Claude Sonnet 4.6** | Pair-programming, scaffolding, edge-case review | Drafted the initial `generate_data.py` and `ranker.py` structure; I rewrote the weights, swapped `TfidfVectorizer` from word to `char_wb` (for cross-lingual), and chose `rank_bm25` over `sklearn.text.CountVectorizer` manual BM25 because it matters for speed. |
 | **Claude Opus 4.7** (follow-up session) | Reviewed ranking logic and summariser template for hallucination risk | Pushed me to make the summariser deterministic and template-based; flagged that LLM-generated summaries would break the <150 MB and <3 min constraints. |
 
 I did **not** use: Copilot, Cursor, ChatGPT, any human pair-programmer.
